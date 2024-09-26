@@ -51,18 +51,14 @@ Both models are compared for performance, and spillover-prone stations are highl
 
 The spatial models reveal significant spillover effects, with certain stations showing higher indirect flood risks based on their neighbors' conditions. The temporal component is also examined to understand how flood risks evolve over time across different regions.
 
-## How to Run the Code
-
-1. Clone the repository:
-```bash
-   git clone https://github.com/mhsrabiul/Flood_spillover.git
-
-2. Install the required libraries:
-```bash
-   pip install -r requirements.txt
-
 ## Citations
 If you use this dataset in your research, please cite the dataset as mentioned above.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+
+
+
